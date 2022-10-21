@@ -13,9 +13,9 @@
 </div> 
   
 <div style="display: inline_block"><br/>
+  <img align="center" alt="Jucs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jucs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jucs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jucs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jucs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="right" alt="Jucs-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/YwSzOxa1m6vtj3QRW8/giphy.gif?cid=790b761103d6d35a640050d80fb6a6d3364719cb064eaa6f&rid=giphy.gif&ct=g" width="150" height="150">
 </div>
