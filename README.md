@@ -1,7 +1,7 @@
 ## Olá guys! Eu sou a Jussara 👩‍💻
  💻 Desenvolvedora Front-end<br/>
  🌱 Atualmente estou estudando JavaScript <br/> 
- 🚀 Estudante Análise e Desenvolvimento de Sistemas <br/>
+ 🚀 Estudante de Análise e Desenvolvimento de Sistemas <br/>
  🎓 Técnica em informática para internet - IFPE Campus Belo Jardim
 
 ## GitHub stats:
