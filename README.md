@@ -1,4 +1,4 @@
-## Olá guys! Eu sou a Jussara 👩‍💻
+## hi guys! Eu sou a Jussara 👩‍💻
  💻 Desenvolvedora Front-end<br/>
  🌱 Atualmente estou estudando React <br/> 
  🚀 Estudante de Análise e Desenvolvimento de Sistemas <br/>
