@@ -17,8 +17,11 @@
   <img align="center" alt="Jucs-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
   <img align="center" alt="Jucs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Jucs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Jucs-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
   <img align="center" alt="Jucs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+ 
   <img align="right" alt="Jucs-pic" height="150" width="150" style="border-radius:50px;" src="https://melaninterest.com/wp-content/uploads/2022/02/tumblrfaababbcbad-1645570191c4lp8.gif">
+ 
  
  ##
  
