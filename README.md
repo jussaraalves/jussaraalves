@@ -6,7 +6,7 @@
 
  💻 Desenvolvedora Front-end<br/>
  🌱 Atualmente estou estudando React <br/> 
- 🚀 Estudante de Análise e Desenvolvimento de Sistemas <br/>
+ 💕 Estudante de Análise e Desenvolvimento de Sistemas <br/>
  🎓 Técnica em informática para internet - IFPE Campus Belo Jardim
 
 ## GitHub stats:
