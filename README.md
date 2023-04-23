@@ -6,7 +6,7 @@
 
  💻 Desenvolvedora Front-end<br/>
  🌱 Atualmente estou estudando React <br/> 
- 💕 Estudante de Análise e Desenvolvimento de Sistemas <br/>
+ 💕 Estudante de Análise e Desenvolvimento de Sistemas  <br/>
  🎓 Técnica em informática para internet - IFPE Campus Belo Jardim
 
 ## GitHub Stats:
@@ -18,8 +18,9 @@
 </div> 
  
   ## Languages and Tools:
-<div style="display: inline_block"><br/>
+<div align="center">
   <img align="center" alt="Jucs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Jucs-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Jucs-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
   <img align="center" alt="Jucs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Jucs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
