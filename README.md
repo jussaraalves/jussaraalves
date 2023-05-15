@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=ff7aa6&width=550&height=100&lines=Hello+World,+I'am+Jussara+...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=ff7aa6&width=550&height=100&lines=Hello+World,+I'am+Jussara)](https://git.io/typing-svg)
 
 <div>
   <img align="right" alt="Jucs-pic" height="150" width="150" style="border-radius:50px;" src="https://media.tenor.com/8bn9U7Py7qAAAAAi/vibe-nezuko.gif">
