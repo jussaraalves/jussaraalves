@@ -6,7 +6,7 @@
 
  💻 Frontend Developer <br/>
  🧠 I'm currently specializing in React <br/> 
- 💕 Systems Analysis and Development Student at Unifavip Wyden <br/>
+ 💗 Systems Analysis and Development Student at Unifavip Wyden <br/>
  🎓 Computer Technician for Internet - IFPE Campus Belo Jardim
 
 ## GitHub Stats:
