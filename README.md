@@ -4,10 +4,10 @@
   <img align="right" alt="Jucs-pic" height="150" width="150" style="border-radius:50px;" src="https://media.tenor.com/8bn9U7Py7qAAAAAi/vibe-nezuko.gif">
 </div>
 
- 💻 Desenvolvedora Front-end<br/>
- 🌱 Atualmente estou estudando React <br/> 
- 💕 Estudante de Análise e Desenvolvimento de Sistemas  <br/>
- 🎓 Técnica em informática para internet - IFPE Campus Belo Jardim
+ 💻 Frontend Developer <br/>
+ 🧠 I'm currently specializing in React <br/> 
+ 💕 Systems Analysis and Development Student at Unifavip Wyden <br/>
+ 🎓 Computer Technician for Internet - IFPE Campus Belo Jardim
 
 ## GitHub Stats:
 
