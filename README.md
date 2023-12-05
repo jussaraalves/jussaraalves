@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=ff7aa6&width=550&height=100&lines=Hello+World,+I'am+Jussara)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=ff7aa6&width=550&height=100&lines=Hello+World,+I'm+Jussara!)](https://git.io/typing-svg)
 
 <div>
   <img align="right" alt="Jucs-pic" height="140" width="400" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1128839315410137238/1181719284242718761/juco-hello-more.gif?ex=658214d8&is=656f9fd8&hm=0ffc10b0c2591a5268e4d247ca50b469977372923f86c2b24c8ffb0bd2e8d37c&">
