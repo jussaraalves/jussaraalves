@@ -4,7 +4,7 @@
   
   <img align="right" alt="Jucs-pic" height="110" width="400" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1128839315410137238/1181719284242718761/juco-hello-more.gif?ex=658214d8&is=656f9fd8&hm=0ffc10b0c2591a5268e4d247ca50b469977372923f86c2b24c8ffb0bd2e8d37c&">
 
- 🧠 I'm currently specializing in React <br/> 
+ 🧠 I'm currently specializing in Angular <br/> 
  💗 Systems Analysis and Development Student at Unifavip Wyden <br/>
  🎓 Computer Technician for Internet - IFPE Campus Belo Jardim
 </div>
