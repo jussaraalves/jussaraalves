@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=D5A6B2&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Jussara;Software+Developer;Computer+Science+Student;Exploring+AI+%26+Software+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=D5A6B2&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+World!+I'm+Jussara;Software+Developer;Computer+Science+Student;Exploring+AI+%26+Software+Engineering" />
 
 **Software Developer | Computer Science Student**
 
