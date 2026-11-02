@@ -1,48 +1,116 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=ff7aa6&width=550&height=100&lines=Front-End+Developer)](https://git.io/typing-svg)
+<div align="center">
 
-<div>
-  
-  <img align="right" alt="Jucs-pic" height="110" width="400" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1128839315410137238/1181719284242718761/juco-hello-more.gif?ex=658214d8&is=656f9fd8&hm=0ffc10b0c2591a5268e4d247ca50b469977372923f86c2b24c8ffb0bd2e8d37c&">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF7AA6&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Jussara;Software+Developer;Computer+Science+Student;Exploring+AI+%26+Software+Engineering" />
 
- 🧠 I'm currently specializing in Angular <br/> 
- 💗 Systems Analysis and Development Student at Unifavip Wyden <br/>
- 🎓 Computer Technician for Internet - IFPE Campus Belo Jardim
+**Software Developer | Computer Science Student**
+
+Building scalable solutions, exploring AI technologies and turning ideas into reality. ✨
+
+<img src="https://img.shields.io/badge/Software_Developer-24242E?style=flat-square&logo=visualstudiocode&logoColor=FF7AA6"/>
+<img src="https://img.shields.io/badge/Computer_Science-24242E?style=flat-square&logo=academia&logoColor=FF7AA6"/>
+<img src="https://img.shields.io/badge/AI_Enthusiast-24242E?style=flat-square&logo=openai&logoColor=FF7AA6"/>
+
 </div>
 
-## GitHub Stats:
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 👩🏻‍💻 About Me
+
+I'm a **Software Developer** passionate about technology, clean code and innovative solutions.
+
+Currently pursuing a degree in **Computer Science** and exploring new possibilities in software engineering and artificial intelligence.
+
+- 💼 Software Developer
+- 🎓 Computer Science Student
+- 🧠 AI, MCP and RAG
+- 🎨 Frontend & Design Systems
+- 🚀 Always learning and building
+
+</td>
+<td width="50%" valign="top">
+
+## ⚙️ Tech Stack
+
+**Frontend Development**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,figma&theme=dark&perline=6" height="32" />
+</div>
+
+**Backend & Infrastructure**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=python,go,nodejs,docker,git,linux&theme=dark&perline=6" height="32" />
+</div>
+
+**AI & Modern Technologies**
+
+<div>
+  <img src="https://img.shields.io/badge/AI-24242E?style=flat-square&logo=openai&logoColor=FF7AA6" height="24" />
+  <img src="https://img.shields.io/badge/MCP-24242E?style=flat-square&logo=anthropic&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/RAG-24242E?style=flat-square&logo=databricks&logoColor=FF7AA6" height="24" />
+  <img src="https://img.shields.io/badge/Embeddings-24242E?style=flat-square&logo=huggingface&logoColor=yellow" height="24" />
+  <img src="https://img.shields.io/badge/AI_Agents-24242E?style=flat-square&logo=openai&logoColor=white" height="24" />
+</div>
+
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/jussaraalves">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jussaraalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jussaraalves&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
- 
-  ## Languages and Tools:
+
+<a href="https://github.com/jussaraalves">
+<img height="300" src="https://github-stats-extended.vercel.app/api?username=jussaraalves&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&title_color=ff7aa6&icon_color=ff7aa6"/>
+</a>
+
+<a href="https://github.com/jussaraalves">
+<img height="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jussaraalves&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=ff7aa6"/>
+</a>
+
+<br/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
 <div align="center">
-  <img align="center" alt="Jucs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Jucs-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-  <img align="center" alt="Jucs-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  <img align="center" alt="Jucs-Ng" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"> 
-  <img align="center" alt="Jucs-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> 
-  <img align="center" alt="Jucs-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> 
-  <img align="center" alt="Jucs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Jucs-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
-  <img align="center" alt="Jucs-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> 
-  
-  <img align="center" alt="Jucs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
- 
- ## 
- 
-<div>
-  <a href="https://www.linkedin.com/in/jussara-alves-201aa0215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jucsdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: jussaraalves852@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-  <a href="https://www.twitch.tv/jucsalves_/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCMFdjc2HzarQGR061LKgnRQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://www.tiktok.com/@jucskj?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-   
-  
- 
-   ![Snake animation](https://github.com/jussaraalves/jussaraalves/blob/output/github-contribution-grid-snake.svg)
- 
+
+<img width="100" src="https://raw.githubusercontent.com/jussaraalves/jussaraalves/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jussara-alves-201aa0215/">
+<img src="https://img.shields.io/badge/LinkedIn-24242E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:jussaraalves852@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-24242E?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://www.instagram.com/jucsdev/">
+<img src="https://img.shields.io/badge/Instagram-24242E?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+<a href="https://www.youtube.com/channel/UCMFdjc2HzarQGR061LKgnRQ">
+<img src="https://img.shields.io/badge/YouTube-24242E?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+</a>
+
+<br/><br/>
+
+*Code with purpose, create with passion.* ♡
+
 </div>
